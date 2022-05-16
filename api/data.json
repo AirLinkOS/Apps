@@ -1,0 +1,10 @@
+{
+    "get": [
+        "system.os.version",
+        "net.vpn.common[].name"
+    ],
+    "set": {
+        "location.gnss.taipid": "1234",
+        "services.web.session.timeout": 10
+    }
+}
